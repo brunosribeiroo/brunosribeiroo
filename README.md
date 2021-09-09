@@ -31,5 +31,5 @@ My name is Bruno Ribeiro, I'm live in Brazil and I'm a back end developer.
 ![Bruno Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosribeiroo&show_icons=true&theme=radical)
 <br>
 <br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunosribeiroo)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=brunosribeiroo)
 
