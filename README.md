@@ -24,23 +24,9 @@ My name is Bruno Ribeiro, I'm live in Brazil and I'm a back end developer.
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoFelixx&show_icons=true&locale=en&layout=compact&theme=radical" alt="Joao Felix" /></p>
-  
-  ![Bruno Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosribeiroo&show_icons=true)
+    
+![Bruno Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=brunosribeiroo&show_icons=true&locale=en&layout=compact&theme=radical)
+<br>
+<br>
+![Bruno Ribeiro GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunosribeiroo&show_icons=true)
 
-
-<!--
-**brunosribeiroo/brunosribeiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
